@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusiastic Engineering pursuer who is ready to explore challenges and willing to learn and develop<br>technical as well as managerial skills and utilize them to my level best for the growth of the<br>organization.
+Aspiring full-stack and blockchain developer who is ready to explore challenges and willing to learn and develop<br>technical as well as managerial skills and utilize them to my level best for the growth of the<br>organization.
 
 
 ## 🌐 Socials:
@@ -16,4 +16,9 @@ Enthusiastic Engineering pursuer who is ready to explore challenges and willing 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FCC72B?style=for-the-badge)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
