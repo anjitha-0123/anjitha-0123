@@ -1,13 +1,14 @@
 # 💫 About Me: 
 
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Girl Coder Animation" />
+</p>
 
 
 Hi there! I'm an enthusiastic **Full-Stack & Blockchain Developer** who thrives on turning big ideas into clean, scalable, and secure code.  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFC3&width=435&lines=Full-Stack+%26+Blockchain+Developer;Exploring+Web3+%26+Smart+Contracts;Always+Learning+%F0%9F%93%9A+Always+Building+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
-</p>
+
 
 
 💻 I love building dynamic full-stack applications, crafting smart contracts, and diving into the latest web3 technologies.  
