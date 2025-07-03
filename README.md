@@ -1,8 +1,7 @@
 # 💫 About Me: 
 
 Hi there! I'm an enthusiastic **Full-Stack & Blockchain Developer** who thrives on turning big ideas into clean, scalable, and secure code.  
-
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
 
 💻 I love building dynamic full-stack applications, crafting smart contracts, and diving into the latest web3 technologies.  
 ⚡ I'm passionate about learning fast, building with purpose, and growing both technically and creatively.  
