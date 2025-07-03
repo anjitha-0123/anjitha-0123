@@ -1,15 +1,9 @@
 # 💫 About Me: 
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Girl Coder Animation" />
-</p>
-
-
 Hi there! I'm an enthusiastic **Full-Stack & Blockchain Developer** who thrives on turning big ideas into clean, scalable, and secure code.  
-
-
-
+<p align="center">
+  <img src="https://cdn.pixabay.com/vintage/2016/11/29/09/08/girl-1866319_1280.gif" width="350" alt="Brown girl coding with laptop, headphones, and coffee in blue-gray tones">
+</p>
 
 💻 I love building dynamic full-stack applications, crafting smart contracts, and diving into the latest web3 technologies.  
 ⚡ I'm passionate about learning fast, building with purpose, and growing both technically and creatively.  
