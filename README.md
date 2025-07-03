@@ -21,4 +21,6 @@ Aspiring full-stack and blockchain developer who is ready to explore challenges 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FCC72B?style=for-the-badge)
 ![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge)
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-2C3E50?style=for-the-badge&logo=hyperledger&logoColor=white)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
