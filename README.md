@@ -1,8 +1,6 @@
 # 💫 About Me: 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Girl Coding Animation">
-</p>
+
 
 
 Hi there! I'm an enthusiastic **Full-Stack & Blockchain Developer** who thrives on turning big ideas into clean, scalable, and secure code.  
