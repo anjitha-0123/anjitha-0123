@@ -2,9 +2,6 @@
 
 Hi there! I'm an enthusiastic **Full-Stack & Blockchain Developer** who thrives on turning big ideas into clean, scalable, and secure code.  
 
-<p align="center">
-  <img src="https://img.freepik.com/free-photo/placeholder" alt="Brown girl coder with laptop, headphones, and coffee" width="300" />
-</p>
 
 
 💻 I love building dynamic full-stack applications, crafting smart contracts, and diving into the latest web3 technologies.  
