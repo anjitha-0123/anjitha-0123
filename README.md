@@ -32,7 +32,6 @@ Hi there! I'm an enthusiastic **Blockchain & Full-Stack Developer** who thrives 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=anjitha-0123&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -45,7 +44,9 @@ Hi there! I'm an enthusiastic **Blockchain & Full-Stack Developer** who thrives 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
 📫 **Let’s connect and build something epic!**
+email: ``` anjithatvijayan@gmail.com ```
 
 
 
