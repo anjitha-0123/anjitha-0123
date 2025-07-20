@@ -32,8 +32,6 @@ Hi there! I'm an enthusiastic **Blockchain & Full-Stack Developer** who thrives 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-📫 **Let’s connect and build something epic!**
-
 
 # 📊 GitHub Stats:
 
@@ -46,6 +44,8 @@ Hi there! I'm an enthusiastic **Blockchain & Full-Stack Developer** who thrives 
 [![](https://visitcount.itsvg.in/api?id=anjitha-0123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+📫 **Let’s connect and build something epic!**
 
 
 
