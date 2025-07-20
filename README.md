@@ -45,8 +45,12 @@ Hi there! I'm an enthusiastic **Blockchain & Full-Stack Developer** who thrives 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+### email: 
+``` anjithatvijayan@gmail.com ```
+
 📫 **Let’s connect and build something epic!**
-email: ``` anjithatvijayan@gmail.com ```
+
+
 
 
 
