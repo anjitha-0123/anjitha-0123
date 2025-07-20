@@ -11,6 +11,9 @@ Hi there! I'm an enthusiastic **Blockchain & Full-Stack Developer** who thrives 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/anjitha-t-v) 
 
+### email: 
+``` anjithatvijayan@gmail.com ```
+
 🛠️ **Tech I love:**  
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -45,8 +48,10 @@ Hi there! I'm an enthusiastic **Blockchain & Full-Stack Developer** who thrives 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-### email: 
-``` anjithatvijayan@gmail.com ```
+# 🐍 Contribution Snake Game
+
+![snake gif](https://github.com/anjitha-0123/anjitha-0123/blob/output/github-contribution-grid-snake.svg)
+
 
 📫 **Let’s connect and build something epic!**
 
